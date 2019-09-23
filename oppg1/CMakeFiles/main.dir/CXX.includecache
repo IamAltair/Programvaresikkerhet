@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/altair/Sikkerhetøvinger/o8/crypto.hpp
+openssl/evp.h
+-
+openssl/sha.h
+-
+sstream
+-
+iomanip
+-
+string
+-
+
+/home/altair/Sikkerhetøvinger/o8/main.cpp
+crypto.hpp
+/home/altair/Sikkerhetøvinger/o8/crypto.hpp
+iostream
+-
+

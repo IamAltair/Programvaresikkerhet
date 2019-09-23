@@ -1,0 +1,3 @@
+/home/altair/Sikkerhetøvinger/o8/CMakeFiles/rebuild_cache.dir
+/home/altair/Sikkerhetøvinger/o8/CMakeFiles/main.dir
+/home/altair/Sikkerhetøvinger/o8/CMakeFiles/edit_cache.dir
